@@ -1,0 +1,9 @@
+#jumbotron1{
+    background-image:url(../imagen/Anillodepromesa.png);
+    background-size: cover;
+    background-position: 40%;
+    height:70vh;
+}
+#pie{
+    background-color: darkgray;
+}

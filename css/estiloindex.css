@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#pie{
+    background-color: darkgray.3;
+    background-size: cover;
+    background-position: 40%;
+    height:70vh;
+}

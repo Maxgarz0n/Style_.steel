@@ -1,0 +1,10 @@
+#jumbotron1{
+    background-image:url(../imagen/cadena.png);
+    background-size: cover;
+    background-position: 40%;
+    height:70vh;
+}
+#pie{
+background-color: darkgray.3;
+}
+
